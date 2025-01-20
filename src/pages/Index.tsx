@@ -1,6 +1,7 @@
 import RecoveryForm from "@/components/RecoveryForm";
 import ServiceStatus from "@/components/ServiceStatus";
 import EmergencyContacts from "@/components/EmergencyContacts";
+import { Card } from "@/components/ui/card";
 
 const Index = () => {
   return (
